@@ -1,0 +1,6 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+mlflow==2.12.2
+evidently==0.4.19
+shap==0.44.1

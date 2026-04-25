@@ -1,0 +1,4 @@
+amount,user_id,device_id,lat,lon,merchant_lat,merchant_lon,target
+100,1,abc,-23.5,-46.6,-23.5,-46.6,0
+100,6,xyz,10,10,-24.5,-46.6,1
+20001,6,new_device,10,10,-24.5,-46.6,1

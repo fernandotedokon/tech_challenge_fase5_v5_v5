@@ -1,0 +1,11 @@
+groups:
+  - name: fraud-alerts
+    rules:
+
+      - alert: HighFraudRate
+        expr: rate(fraud_predictions_total[1m]) > 5
+        for: 30s
+        labels:
+          severity: critical
+        annotations:
+          summary: "Alto volume de fraudes detectado"
