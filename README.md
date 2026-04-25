@@ -1,4 +1,4 @@
-# 📈 e
+# 📈 Projeto LSTM para Treinamento e Fraud Detection
 **Powered by Group 9, 6MLET**
 
 ### Projeto de Machine Learning e MLOps para previsão de **Fraud Detection** usando **redes neurais LSTM**, incluindo Orquestração, implantação de API, monitoramento, detecção de desvio de dados, automação de retreinamento, visualização em painel e infraestrutura Dockerizada.
